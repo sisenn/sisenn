@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C843DAEB&background=EEEEEED4&width=435&lines=Hi%2C+I'm+Sinem+%C5%9Een+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
-<h1 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliyowv8y010808lgd93jpz8z/stats?cursusId=21&coalitionId=230" alt="sisen's 42 stats" /></a></h1>
+<h1 align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sisen?1337Badge=off&UM6P=off" alt="sisen's 42 stats" /></a></h1>
 
 Hi, i'm <a href="https://www.linkedin.com/in/sinem-senn/">Sinem Şen </a>, a passionate developer from Turkey. This is the first step of my software adventure. Surprisingly, I was introduced to software and found that I really enjoyed the field, while I had no previous interest in it. I am currently continuing my projects at Ecole 42 software school.
 </br></br>
